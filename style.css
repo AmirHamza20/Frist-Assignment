@@ -1,0 +1,40 @@
+
+.header{
+    background-image: url(img/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.flex-col-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-text-container{
+    text-align: center;
+    padding: 150px;
+}
+.main-log{
+   color:#4E47FF;
+}
+
+.text-title{
+    font-size:65px;
+    margin-bottom: 40px;
+}
+
+/* shard style  */
+
+.main-btn{
+    border: none;
+    color:#FFFFFF ;
+    background-color:#4E47FF ;
+    padding: 12px 36px;
+    border-radius: 8px;
+}
