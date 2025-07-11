@@ -29,7 +29,7 @@
     margin-bottom: 40px;
 }
 
-/* shard style  */
+/* shard style  start */
 
 .main-btn{
     border: none;
@@ -37,4 +37,36 @@
     background-color:#4E47FF ;
     padding: 12px 36px;
     border-radius: 8px;
+}
+
+/* shard style End */
+
+/* action section start  */
+
+
+.action-flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+
+.action-text-container h2 {
+    font-size: 42px;
+    color: #252432;
+    max-width: 40%;
+}
+
+.action-text-container p {
+    font-size: 24px;
+    color: #252432;
+    max-width:  60%;
+}
+
+img.img-logo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 48px;
 }
