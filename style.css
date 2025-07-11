@@ -159,3 +159,35 @@ img.img-logo {
     max-width: 840px;
     margin-top: 20px;
 }
+
+/* newsletter section start  */
+
+.news-flex-container{
+    display: flex;
+    padding: 71px 0px;
+}
+
+.news-text-log-container h1 {
+    font-size: 97px;
+   max-width: 70%;
+    
+}
+
+.input-field{
+    display: grid;
+    
+}
+
+.text-aria {
+    width: 104%;
+    padding: 15px 32px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #eff1f5;
+}
+
+.btn-aria{
+    width: 125%;
+}
+
