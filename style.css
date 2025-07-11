@@ -100,3 +100,44 @@ img.img-logo {
     margin: 0px;
     
 }
+
+/* review card section start  */
+
+.review-flex-container h1 {
+    text-align: center;
+    font-size: 42px;
+    margin-bottom: 50px;
+}
+
+.review-flex-col-card {
+    display: flex;
+    justify-content: space-between;
+     gap: 20px;
+     margin-bottom: 116px;
+}
+
+.review-card{
+    padding: 24px;
+    background-color: #f7f4f4e0;
+    border: none;
+    border-radius: 14px;
+    width: 300px;
+   
+}
+.review-card p {
+    color: #524c4c;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
+.avatar img{
+    border-radius: 50px;
+}
+
+.avatar-title p {
+    margin: 0px;
+    color: #B3B3B3;
+}
