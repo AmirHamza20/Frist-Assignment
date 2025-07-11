@@ -141,3 +141,21 @@ img.img-logo {
     margin: 0px;
     color: #B3B3B3;
 }
+
+/* focus section  start  */
+
+.focus-flex-col-logo{
+    text-align: center;
+    justify-content: center;
+    padding: 71px 150px;
+}
+
+.focus-flex-col-logo h1{
+    font-size: 50px;
+}
+
+.focus-flex-col-logo img {
+    height: 364px;
+    max-width: 840px;
+    margin-top: 20px;
+}
